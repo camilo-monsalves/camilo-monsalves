@@ -31,7 +31,7 @@ Aquí te presento algunos de mis proyectos más destacados:
 ¡Gracias por visitar mi perfil! 😊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilo-monsalves&show_icons=true&locale=en&layout=compact" alt="camilo-monsalves" width="48%" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzY2I2MGNiODA2ZmRmNjcwYjA3NWUzM2Q3MGFlMDJiZjViOTdiMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="GIF" width="48%" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilo-monsalves&show_icons=true&locale=en&layout=compact" alt="camilo-monsalves" width="50%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzY2I2MGNiODA2ZmRmNjcwYjA3NWUzM2Q3MGFlMDJiZjViOTdiMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="GIF" width="30%" align="right" />
 </p>
 
