@@ -7,6 +7,9 @@
 - Actualmente estoy estudiando en un Bootcamp Full Stack Python en Awakelab a través de Talento Digital.
 - Estoy interesado en aprender más sobre programación y tecnología.
 - Estoy buscando oportunidades de colaboración y aprendizaje en el campo de la tecnología.
+
+- Como hobbie soy una apasionado de los videojuegos 🕹️
+- Me encanta entrenar powerlifting 🏋🏻‍♀️
 <!-- - Me encanta trabajar en proyectos relacionados con . -->
 
 <!--
